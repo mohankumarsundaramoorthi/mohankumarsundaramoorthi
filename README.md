@@ -24,7 +24,7 @@ About me
 
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohankumarsundaramoorthi&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumarsundaramoorthi&layout=compact)](https://github.com/mohankumarsundaramoorthi/acer)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumarsundaramoorthi&layout=compact)
 
 
 #### Top Repositories

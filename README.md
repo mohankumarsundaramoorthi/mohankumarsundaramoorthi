@@ -22,7 +22,6 @@ About me
 ![](https://img.shields.io/static/v1?label=Tool&message=Docker&color=pink)
 ![](https://img.shields.io/static/v1?label=Database&message=Oracle&color=green)
 
-[![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohankumarsundaramoorthi&show_icons=true)](https://github.com/mohankumarsundaramoorthi/acer)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumarsundaramoorthi&layout=compact)](https://github.com/mohankumarsundaramoorthi/acer)
 

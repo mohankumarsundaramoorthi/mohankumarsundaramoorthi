@@ -29,7 +29,7 @@ About me
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mohankumarsundaramoorthi/acer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohankumarsundaramoorthi&repo=acer&theme=buefy" />
 </a>
 

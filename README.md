@@ -26,13 +26,6 @@ About me
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumarsundaramoorthi&layout=compact)](https://github.com/mohankumarsundaramoorthi/acer)
 
 
-#### Top Repositories
-
-<a href="https://github.com/mohankumarsundaramoorthi/acer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohankumarsundaramoorthi&repo=acer&theme=buefy" />
-</a>
-
-
 <!--
 **mohankumarsundaramoorthi/mohankumarsundaramoorthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

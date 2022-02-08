@@ -6,7 +6,7 @@ About me
 
 🖥️ Full Stack Web Application Developer
 
-❤️ I love learning new tecnologies and work on emerging trends
+❤️ I love learning new technologies and work on emerging trends
 
 🌱 I’m currently learning AWS
 
